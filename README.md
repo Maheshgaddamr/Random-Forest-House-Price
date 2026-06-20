@@ -43,7 +43,7 @@ Compared results with Linear Regression model.
 - median_income is strongest predictor
 - Random Forest handles non-linear 
   data much better than Linear Regression
-- 100 decision trees combined give
+- 99 decision trees combined give
   more accurate predictions
 
 ## Why Random Forest is Better
